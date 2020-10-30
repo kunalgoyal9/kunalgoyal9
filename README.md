@@ -1,5 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kunalgoyal9)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img align='right' src="2.png" width="230">
+
 - 🔭 I’m currently working on Automating retraining for Computer vision models and Deploying them on scale.
 - 👯 I’m looking to collaborate on [Fiera](https://github.com/xyzunreal/Fiera), [MereExamsBot](https://github.com/kunalgoyal9/MereExamsBot)
 - ⚡ Fun fact: I don't convert coffee into code. 
