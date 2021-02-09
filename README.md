@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="230">
 
-- 🔭 I’m currently working on Automating retraining for Computer vision models and Deploying them on scale.
+- 🔭 I’m currently Developing a framework for Automating retraining in Python and Deploying them on scale.
 - 👯 I’m looking to collaborate on [Fiera](https://github.com/xyzunreal/Fiera), [MereExamsBot](https://github.com/kunalgoyal9/MereExamsBot)
 - ⚡ Fun fact: I don't convert coffee into code. 
 
