@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="230">
 
-- 🔭 I’m currently working on Blockchain development. 
+- 🔭 I’m currently working on Blockchain dev. 
 - 👯 I’m looking to collaborate on [Fiera](https://github.com/xyzunreal/Fiera), [MereExamsBot](https://github.com/kunalgoyal9/MereExamsBot)
 - ⚡ Fun fact: I don't convert coffee into code. 
 
