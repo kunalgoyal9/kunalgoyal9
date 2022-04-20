@@ -1,6 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=kunalgoyal9)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalgoyal9&label=Profile%20views&color=0e75b6&style=flat" alt="kunalgoyal9" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kunalgoyal9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align='right' src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="230">
 
