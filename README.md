@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I don't convert coffee into code. 
 
 <a href="https://twitter.com/0kugos0">
-  <img align="left" alt="Kunal's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+  <img align="left" alt="Kunal's Twitter" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg"/ width="45" height="45">
 </a>
 
 <a href="https://www.linkedin.com/in/kunalgoyal9">
