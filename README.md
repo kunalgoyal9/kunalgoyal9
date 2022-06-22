@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on [Fiera](https://github.com/xyzunreal/Fiera), [MereExamsBot](https://github.com/kunalgoyal9/MereExamsBot)
 - ⚡ Fun fact: I don't convert coffee into code. 
 
-<a href="https://twitter.com/0kugos0">
+<a href="https://twitter.com/kugos0">
   <img align="left" alt="Kunal's Twitter" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg"/ width="45" height="45">
 </a>
 
