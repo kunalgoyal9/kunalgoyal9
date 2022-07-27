@@ -1,4 +1,4 @@
-<h1 align="center">Senior fullstack developer and blockchain engineer</h1>
+<h1 align="center">Senior Blockchain and Computer Vision engineer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalgoyal9&label=Profile%20views&color=0e75b6&style=flat" alt="kunalgoyal9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalgoyal9" alt="kunalgoyal9" /></a> </p>
@@ -35,8 +35,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&labelColor=black&color=green&logo=Node.js)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&labelColor=black&color=orange&logo=Django)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&labelColor=black&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&labelColor=black&logo=apollo-graphql)
-![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat&labelColor=black&color=green&logo=Next.js)
+![Flask](https://img.shields.io/badge/-flask-black?style=flat&labelColor=black&color=green&logo=flask)
 ![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-61dafb?style=flat&labelColor=black&color=green&logo=Nuxt.js)
 
 ## 🧵 Database
