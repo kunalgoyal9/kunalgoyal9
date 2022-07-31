@@ -95,7 +95,7 @@
 
 <p align="center">
     <a href="https://www.autify.network">
-			<img src="./assets/nft/autify.png" width="25%"/>
+			<img src="./assets/NFT/autify.png" width="25%"/>
 		</a>
 </p>
 
