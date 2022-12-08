@@ -23,6 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&labelColor=black&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&labelColor=black&color=blue&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&labelColor=black&logo=typescript)
+![Golang](https://img.shields.io/badge/-Golang-007ACC?style=flat&labelColor=black&logo=go)
 
 ## ⛓ Blockchain
 
